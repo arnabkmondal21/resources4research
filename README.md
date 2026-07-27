@@ -10,12 +10,15 @@ N.B. While exploring the resources, if you think there is an excellent resource 
 * [PubChem](https://pubchem.ncbi.nlm.nih.gov/) - Database for accessing chemical information
 * [UniProt](https://www.uniprot.org/) - Database of protein sequence and functional information
 * [RCSB Protein Data Bank](https://www.rcsb.org/) - Database for accessing experimentally-determined 3D structures of proteins
+* [PrankWeb](https://prankweb.cz/) - Machine learning based ligand binding site prediction
+* [Clustal Omega](https://www.ebi.ac.uk/jdispatcher/msa/clustalo) - Multiple sequence alignment program
 
 ## Essential Software & Programs
 * [Chemsketch-Freeware](https://www.acdlabs.com/resources/free-chemistry-software-apps/chemsketch-freeware/) - Free Chemical structure drawing software
 * [Avogadro](https://avogadro.cc/index.html) - Free molecular editor and visualization tool
 * [UCSF ChimeraX](https://www.cgl.ucsf.edu/chimerax/) - Free molecular visualization program
 * [Zotero](https://www.zotero.org/) - Free reference management software
+* [ORCA](https://www.faccts.de/orca/) - Free quantum chemistry software package
 
 ## Relevant Journals 
 1. [Nature Reviews Drug Discovery](https://www.nature.com/nrd/)
@@ -39,10 +42,16 @@ N.B. While exploring the resources, if you think there is an excellent resource 
 
 ## Miscellaneous
 * [In the Pipeline by Derek Lowe](https://www.science.org/blogs/pipeline) - Blogs on drug discovery and pharmaceutical industry
-* [Valence Labs](https://www.youtube.com/@valence_labs) - YouTube channel features important topics on machine learning and drug discovery
+* [Valence Labs](https://www.youtube.com/@valence_labs) - YouTube channel on machine learning and drug discovery
+* [ChemCoder](https://www.youtube.com/@ChemCoder404/featured) - YouTube channel on AI and ML for Chemistry
 
 ## Core Concepts 
-### Homology Modeling
-### Molecular Docking
+### Homology Modelling
+* [SWISS-MODEL for homology modelling of proteins](https://academic.oup.com/nar/article/46/W1/W296/5000024)
 ### Molecular Dynamic Simulation
+* [Molecular Dynamics Simulation for All](https://www.cell.com/neuron/fulltext/S0896-6273(18)30684-6?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0896627318306846%3Fshowall%3Dtrue)
 ### Molecular Representations
+* [Learning Molecular Representations for Medicinal Chemistry](https://pubs.acs.org/jmcmar/article/63/16/8705/1502164/Learning-Molecular-Representations-for-Medicinal)
+
+## Important Papers & Collections
+* [Computational methodology for drug discovery](https://www.nature.com/collections/dhcgiaigac) - Collection of open access papers on computer-aided drug discovery
