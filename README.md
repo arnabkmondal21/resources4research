@@ -49,11 +49,11 @@ N.B. While exploring the resources, if you think there is an excellent resource 
 * [UCLA QCBio Collaboratory](https://www.youtube.com/@uclaqcbiocollaboratory3691/featured) - Official YouTube channel of Institute for Quantitative and Computational Biosciences @UCLA features video recordings of their training workshops
 
 ## Core Concepts 
-**Homology Modelling**
+###Homology Modelling###
 * [SWISS-MODEL for homology modelling of proteins](https://academic.oup.com/nar/article/46/W1/W296/5000024)
-**Molecular Dynamic Simulation**
-* [Molecular Dynamics Simulation for All](https://www.cell.com/neuron/fulltext/S0896-6273(18)30684-6?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0896627318306846%3Fshowall%3Dtrue)
-**Molecular Representations**
+###Molecular Dynamic Simulation###
+* [Molecular Dynamics Simulation for All](https://www.cell.com/neuron/fulltext/S0896-6273(18)30684-6?returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0896627318306846%3Fshowall%3Dtrue)
+###Molecular Representations###
 * [Learning Molecular Representations for Medicinal Chemistry](https://pubs.acs.org/jmcmar/article/63/16/8705/1502164/Learning-Molecular-Representations-for-Medicinal)
 
 ## Important Papers & Collections
