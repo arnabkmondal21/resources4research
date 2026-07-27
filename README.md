@@ -12,6 +12,7 @@ N.B. While exploring the resources, if you think there is an excellent resource 
 * [RCSB Protein Data Bank](https://www.rcsb.org/) - Database for accessing experimentally-determined 3D structures of proteins
 * [PrankWeb](https://prankweb.cz/) - Machine learning based ligand binding site prediction
 * [Clustal Omega](https://www.ebi.ac.uk/jdispatcher/msa/clustalo) - Multiple sequence alignment program
+* [ZINC](https://zinc.docking.org/) - Free database of commercially-available compounds for virtual screening
 
 ## Essential Software & Programs
 * [Chemsketch-Freeware](https://www.acdlabs.com/resources/free-chemistry-software-apps/chemsketch-freeware/) - Free Chemical structure drawing software
@@ -37,21 +38,26 @@ N.B. While exploring the resources, if you think there is an excellent resource 
 ## Scientists to follow 
 1. [Brian Shoichet](https://scholar.google.com/citations?hl=en&user=pkywAwsAAAAJ&view_op=list_works&sortby=pubdate) - Professor @UCSF
 2. [Connor W. Coley](https://scholar.google.com/citations?hl=en&user=l015S80AAAAJ&pagesize=80&view_op=list_works&sortby=pubdate) - Professor @MIT
-3. [Matthew James O'Meara](https://scholar.google.com/citations?hl=en&user=AhiiuoIAAAAJ&view_op=list_works&sortby=pubdate) - Professor @UMich
-4. [Ola Spjuth](https://scholar.google.com/citations?hl=en&user=oSJgw2cAAAAJ&view_op=list_works&sortby=pubdate) - Professor @Uppsala
+3. [Alexander Tropsha](https://scholar.google.com/citations?hl=en&user=inPIy48AAAAJ&view_op=list_works&sortby=pubdate) - Professor @UNC-Chapel Hill
+4. [Matthew James O'Meara](https://scholar.google.com/citations?hl=en&user=AhiiuoIAAAAJ&view_op=list_works&sortby=pubdate) - Professor @UMich
+5. [Ola Spjuth](https://scholar.google.com/citations?hl=en&user=oSJgw2cAAAAJ&view_op=list_works&sortby=pubdate) - Professor @Uppsala
 
 ## Miscellaneous
 * [In the Pipeline by Derek Lowe](https://www.science.org/blogs/pipeline) - Blogs on drug discovery and pharmaceutical industry
 * [Valence Labs](https://www.youtube.com/@valence_labs) - YouTube channel on machine learning and drug discovery
 * [ChemCoder](https://www.youtube.com/@ChemCoder404/featured) - YouTube channel on AI and ML for Chemistry
+* [UCLA QCBio Collaboratory](https://www.youtube.com/@uclaqcbiocollaboratory3691/featured) - Official YouTube channel of Institute for Quantitative and Computational Biosciences @UCLA features video recordings of their training workshops
 
 ## Core Concepts 
-### Homology Modelling
+**Homology Modelling**
 * [SWISS-MODEL for homology modelling of proteins](https://academic.oup.com/nar/article/46/W1/W296/5000024)
-### Molecular Dynamic Simulation
+**Molecular Dynamic Simulation**
 * [Molecular Dynamics Simulation for All](https://www.cell.com/neuron/fulltext/S0896-6273(18)30684-6?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0896627318306846%3Fshowall%3Dtrue)
-### Molecular Representations
+**Molecular Representations**
 * [Learning Molecular Representations for Medicinal Chemistry](https://pubs.acs.org/jmcmar/article/63/16/8705/1502164/Learning-Molecular-Representations-for-Medicinal)
 
 ## Important Papers & Collections
-* [Computational methodology for drug discovery](https://www.nature.com/collections/dhcgiaigac) - Collection of open access papers on computer-aided drug discovery
+* [Computational methodology for drug discovery](https://www.nature.com/collections/dhcgiaigac) - Collection of open access research papers on computer-aided drug discovery
+* [Integrating Machine Learning into Medicinal Chemistry and Cheminformatics](https://www.mdpi.com/journal/pharmaceuticals/special_issues/S15F8O4W88) - Collection of open access research papers on the application of ML in medicinal chemistry and cheminformatics
+* [Computational Drug Discovery](https://www.mdpi.com/journal/molecules/special_issues/3Q6OV9M879#editors) - Collection of open access papers on methods and application in computational drug discovery
+* [AI driven Drug Discovery](https://pubs.acs.org/acsodf/article/10/23/23889/3654520/AI-Driven-Drug-Discovery-A-Comprehensive-Review) - An open access review paper on AI in Drug Discovery
