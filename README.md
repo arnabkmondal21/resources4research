@@ -42,11 +42,12 @@ N.B. While exploring the resources, if you think there is an excellent resource 
 4. [Matthew James O'Meara](https://scholar.google.com/citations?hl=en&user=AhiiuoIAAAAJ&view_op=list_works&sortby=pubdate) - Professor @UMich
 5. [Ola Spjuth](https://scholar.google.com/citations?hl=en&user=oSJgw2cAAAAJ&view_op=list_works&sortby=pubdate) - Professor @Uppsala
 
-## Miscellaneous 🛠️
+## Miscellaneous 🗃️
 * [In the Pipeline by Derek Lowe](https://www.science.org/blogs/pipeline) - Blogs on drug discovery and pharmaceutical industry
 * [Valence Labs](https://www.youtube.com/@valence_labs) - YouTube channel on machine learning and drug discovery
+* [TechOpenCADD](https://projects.volkamerlab.org/teachopencadd/) - Free talktorials on cheminformatics and structural bioinformatics developed by Volkamer Lab
 * [ChemCoder](https://www.youtube.com/@ChemCoder404/featured) - YouTube channel on AI and ML for Chemistry
-* [UCLA QCBio Collaboratory](https://www.youtube.com/@uclaqcbiocollaboratory3691/featured) - Official YouTube channel of Institute for Quantitative and Computational Biosciences @UCLA features video recordings of their training workshops
+* [UCLA QCBio Collaboratory](https://www.youtube.com/@uclaqcbiocollaboratory3691/featured) - YouTube channel of Institute for Quantitative and Computational Biosciences @UCLA features video recordings of their training workshops
 
 ## Core Concepts 🎯
 #### Homology Modelling ####
@@ -61,3 +62,10 @@ N.B. While exploring the resources, if you think there is an excellent resource 
 * [Integrating Machine Learning into Medicinal Chemistry and Cheminformatics](https://www.mdpi.com/journal/pharmaceuticals/special_issues/S15F8O4W88) - Collection of open access research papers on the application of ML in medicinal chemistry and cheminformatics
 * [Computational Drug Discovery](https://www.mdpi.com/journal/molecules/special_issues/3Q6OV9M879#editors) - Collection of open access papers on methods and application in computational drug discovery
 * [AI driven Drug Discovery](https://pubs.acs.org/acsodf/article/10/23/23889/3654520/AI-Driven-Drug-Discovery-A-Comprehensive-Review) - An open access review paper on AI in Drug Discovery
+  
+## AI Tools 💥
+* [Gemini Notebook](https://notebook.google.com/) - AI-powered research and note-taking assistant
+* [Perplexity AI](https://www.perplexity.ai/) - AI-powered answer engine
+
+  ## Tutorials 🛠️
+  
