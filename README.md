@@ -24,16 +24,20 @@ N.B. While exploring the resources, if you think there is an excellent resource 
 ## Relevant Journals 📰
 1. [Nature Reviews Drug Discovery](https://www.nature.com/nrd/)
 2. [Journal of Medicinal Chemistry](https://pubs.acs.org/jmcmar)
-3. [Journal of Chemical Information and Modeling](https://pubs.acs.org/jcisd8)
-4. [Journal of Cheminformatics](https://link.springer.com/journal/13321)
+3. [Medicines in Drug Discovery](https://www.sciencedirect.com/journal/medicine-in-drug-discovery)
+4. [Journal of Chemical Information and Modeling](https://pubs.acs.org/jcisd8)
+5. [Drug Discovery Today](https://www.sciencedirect.com/journal/drug-discovery-today)
+6. [Journal of Cheminformatics](https://link.springer.com/journal/13321)
+7. [Journal of Enzyme Inhibition and Medicinal Chemistry](https://www.tandfonline.com/journals/ienz20)
 
 ## Relevant Courses 📔
-* [Machine Learning Specialization](https://www.deeplearning.ai/specializations/machine-learning)
-* [Introduction to molecular modeling in drug discovery](https://www.schrodinger.com/life-science/learn/education/courses/introdd/)
-* [Disease Modeling and Target Discovery](https://insilico-medicine-school.teachable.com/)
-* [Target enablement, preparation and validation](https://www.schrodinger.com/life-science/learn/education/courses/target/)
-* [Designing quality ligand libraries](https://www.schrodinger.com/life-science/learn/education/courses/library/)
-* [Virtual screening with integrated physics and machine learning](https://www.schrodinger.com/life-science/learn/education/courses/virtualscreening/) 
+* [Machine Learning Specialization](https://www.deeplearning.ai/specializations/machine-learning) - Free/Paid(Certificate) course by DeepLearning.AI
+* [Introduction to molecular modeling in drug discovery](https://www.schrodinger.com/life-science/learn/education/courses/introdd/) - Paid course by Schrodinger
+* [Disease Modeling and Target Discovery](https://insilico-medicine-school.teachable.com/) - Free course by Insilico medicine
+* [Drug Hunting: The Science of Making New Medicines Specialization](https://www.coursera.org/specializations/drug-hunting-discovery-and-development) - Free/Paid(Certificate) course by Novartis on Coursera
+* [Target enablement, preparation and validation](https://www.schrodinger.com/life-science/learn/education/courses/target/) - Paid course by Schrodinger
+* [Designing quality ligand libraries](https://www.schrodinger.com/life-science/learn/education/courses/library/) - Paid course by Schrodinger
+* [Virtual screening with integrated physics and machine learning](https://www.schrodinger.com/life-science/learn/education/courses/virtualscreening/) - Paid course by Schrodinger
 
 ## Scientists to follow 🧑‍🔬
 1. [Brian Shoichet](https://scholar.google.com/citations?hl=en&user=pkywAwsAAAAJ&view_op=list_works&sortby=pubdate) - Professor @UCSF
@@ -63,9 +67,8 @@ N.B. While exploring the resources, if you think there is an excellent resource 
 * [Computational Drug Discovery](https://www.mdpi.com/journal/molecules/special_issues/3Q6OV9M879#editors) - Collection of open access papers on methods and application in computational drug discovery
 * [AI driven Drug Discovery](https://pubs.acs.org/acsodf/article/10/23/23889/3654520/AI-Driven-Drug-Discovery-A-Comprehensive-Review) - An open access review paper on AI in Drug Discovery
   
-## AI Tools 💥
+## AI Tools 🪄
 * [Gemini Notebook](https://notebook.google.com/) - AI-powered research and note-taking assistant
 * [Perplexity AI](https://www.perplexity.ai/) - AI-powered answer engine
 
-  ## Tutorials 🛠️
   
