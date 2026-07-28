@@ -66,6 +66,7 @@ N.B. While exploring the resources, if you think there is an excellent resource 
 * [Integrating Machine Learning into Medicinal Chemistry and Cheminformatics](https://www.mdpi.com/journal/pharmaceuticals/special_issues/S15F8O4W88) - Collection of open access research papers on the application of ML in medicinal chemistry and cheminformatics
 * [Computational Drug Discovery](https://www.mdpi.com/journal/molecules/special_issues/3Q6OV9M879#editors) - Collection of open access papers on methods and application in computational drug discovery
 * [AI driven Drug Discovery](https://pubs.acs.org/acsodf/article/10/23/23889/3654520/AI-Driven-Drug-Discovery-A-Comprehensive-Review) - An open access review paper on AI in Drug Discovery
+* [Machine learning in chemoinformatics and drug discovery](https://www.sciencedirect.com/science/article/pii/S1359644617304695) - An open access review paper on ML in Cheminformatics and Drug Discovery
   
 ## AI Tools 🪄
 * [Gemini Notebook](https://notebook.google.com/) - AI-powered research and note-taking assistant
